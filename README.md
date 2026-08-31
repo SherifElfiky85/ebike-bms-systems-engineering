@@ -1,6 +1,6 @@
 # eBike BMS — Systems Engineering Case Study
 
- ![Profile Picture](./ProflePictureComp.jpg)
+ <img src="ProflePictureComp.jpg" alt="Sherif ElFiky" width="150">
 
 I'm Sherif ElFiky, a System Engineer / Technical Project Manager with 15+ years across automotive and Public sector programs (Bosch, Volkswagen, Stellantis, Porsche), IREB CPRE-certified. I'm moving more toward electrification roles, and wanted a concrete way to show how I'd approach one. So I picked a self contained, safety relevant component (an eBike Battery Management System) and worked it end to end: context, architecture, interfaces, and a protection use case with full traceability to verification. This isn't a claim of BMS product experience it's a record of the systems engineering process I bring to a new domain.
 
