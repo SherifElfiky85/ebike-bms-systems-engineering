@@ -38,7 +38,7 @@ Implements directly on the architecture and interfaces already defined: **Protec
 
 ## Sequence of events
 
-
+ ![BMS Sequence Diagram](./diagrams/bms-uml-sequence.png)
 
 ## Verification / test cases
 
