@@ -13,7 +13,7 @@
 
 ## Architecture diagram
 
-
+ ![BMS Arch Diagram](./diagrams/bms-arch-diagram.png)
 
 ## Rationale 
 
