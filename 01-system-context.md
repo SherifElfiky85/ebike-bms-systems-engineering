@@ -31,5 +31,5 @@ The Battery Management System (BMS) protects, monitors, and manages the battery 
 
 ## Context diagram
 
-  ![BMS System Context Diagram](../diagrams/bms-context-diagram.svg)
+  ![BMS System Context Diagram](./diagrams/bms-context-diagram.svg)
   *Figure 1: BMS system context: external interfaces to cells, motor controller, charger, HMI, and power path.*
